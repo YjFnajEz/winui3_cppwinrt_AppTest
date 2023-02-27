@@ -8,6 +8,7 @@
 #endif
 
 #include "FirstPage.xaml.h"
+#include "BlankPage.xaml.h"
 
 using namespace winrt;
 using namespace Microsoft::UI::Xaml;
