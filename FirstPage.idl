@@ -1,0 +1,11 @@
+// Copyright (c) Microsoft Corporation and Contributors.
+// Licensed under the MIT License.
+
+namespace AppTest
+{
+    [default_interface]
+    runtimeclass FirstPage : Microsoft.UI.Xaml.Controls.Page
+    {
+        FirstPage();
+    }
+}
